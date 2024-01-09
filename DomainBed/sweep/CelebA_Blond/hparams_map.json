@@ -1,0 +1,16 @@
+{
+    "resnet18": true,
+    "freeze_resnet_bn": false,
+    "resnet_dropout": 0,
+    "nonlinear_classifier": false,
+    "data_augmentation": true,
+    "used_map": true,
+    "lr_alpha": 5e-5,
+    "lr_beta": 5e-5,
+    "lr2": 5e-4,
+    "map_ad_type": "residual",
+    "map_ad_form": "matrix",
+    "map_opt": "alpha+beta",
+    "map_init": "eye",
+    "adapter_steps": 10
+}

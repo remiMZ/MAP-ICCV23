@@ -1,0 +1,11 @@
+{
+    "resnet18": true,
+    "freeze_resnet_bn": false,
+    "resnet_dropout": 0,
+    "nonlinear_classifier": false,
+    "data_augmentation": true,
+    "is_addition_network": false,
+    "is_BN": false,
+    "is_used_lft": false,
+    "return_context_label": false
+}

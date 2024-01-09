@@ -1,0 +1,11 @@
+{
+    "used_map": true,
+    "lr_alpha": 0.05,
+    "lr_beta": 0.1,
+    "lr2": 0.01,
+    "map_ad_type": "residual",
+    "map_ad_form": "matrix",
+    "map_opt": "alpha",
+    "map_init": "random",
+    "adapter_steps": 10
+}

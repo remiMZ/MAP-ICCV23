@@ -1,0 +1,7 @@
+{
+    "frozen": "conv3",
+    "lr_alpha": 1e-3,
+    "lr_beta": 1e-3,
+    "lr2": 0.01,
+    "adapter_steps": 10
+}

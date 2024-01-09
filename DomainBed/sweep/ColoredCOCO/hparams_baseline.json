@@ -1,0 +1,6 @@
+{
+    "pretrained": false,
+    "nonlinear_classifier": false,
+    "data_augmentation": true,
+    "data_augmentation_scheme": "default"
+}
